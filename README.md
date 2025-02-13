@@ -1,2 +1,2 @@
-# Project
+# Mini Project
 Fake News Detection
